@@ -1,5 +1,9 @@
+<div align="center">
+  <img src="/assets/images/br.png" width="100%">
+</div>
+
 <div aling="center">
-  <h1"><strong>Bienvenue sur mon profil GitHub (:</strong></h1>
+  <h1><strong>Bienvenue sur mon profil GitHub (:</strong></h1>
 </div>
 
 <div align="center">
@@ -12,7 +16,6 @@
   <img src="/assets/images/backgroundMid.jpg" width="100%">
   <img src="/assets/images/backgroundBottom.jpg" width="100%">
   <img src="/assets/images/backgroundBottomBottom.jpg" width="100%">
-  <p>Adrien - Étudiant en développement</p>
 </div>
 
 <div align="center">
