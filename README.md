@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/images/br.png" height="100">
+  <img src="/assets/images/br.png" height="30">
 </div>
 
 <div aling="center">
@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="/assets/images/br.png" height="100">
+  <img src="/assets/images/br.png" height="30">
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-  <img src="/assets/images/br.png" height="100">
+  <img src="/assets/images/br.png" height="30">
 </div>
 
 <div align="left">
@@ -59,5 +59,5 @@
 </div>
 
 <div align="center">
-  <img src="/assets/images/br.png" height="100">
+  <img src="/assets/images/br.png" height="30">
 </div>
