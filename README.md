@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/images/br.png" width="60%" />
+</p>
+
+<p align="center">
 <img src="assets/images/hoyazen.png" width="100%" />
   <img src="assets/images/backgroundTop.jpg" width="100%" />
   <img src="assets/images/backgroundMid.jpg" width="100%" />
@@ -8,10 +12,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=2000&color=6424AE&center=true&vCenter=true&width=520&lines=Frontend+%2F+Backend+Developer;Still+Learning+..." />
-</p>
-
-<p align="center">
-  <img src="assets/images/br.png" width="60%" />
 </p>
 
 <div align="center">
@@ -29,16 +29,10 @@
 </div>
 
 <p align="center">
-  <img src="assets/images/br.png" width="60%" />
-</p>
-
-<p align="center">
   <h2>Stats</h2>
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Hoyazen&show_icons=true&hide_border=true&bg_color=00000000&title_color=6424AE&icon_color=6424AE&text_color=cccccc&include_all_commits=true" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoyazen)
 
 <p align="center">
   <img src="assets/images/br.png" width="60%" />
