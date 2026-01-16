@@ -36,7 +36,11 @@
   <h2>Stats</h2>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hoyazen&theme=onedark)]
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Hoyazen&theme=onedark&no-frame=true&no-bg=true&column=4" />
+  </a>
+</p>
 
 <p align="center">
   <img src="assets/images/br.png" width="60%" />
