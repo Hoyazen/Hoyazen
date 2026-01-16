@@ -8,11 +8,12 @@
   <p>Adrien - Étudiant en développement</p>
 </div>
 
+<div align="left">
+
 <div align="center">
   <h2>Stack :</h2>
 </div>
 
-<div align="left">
 <h3>Frontend</h3>
   <p>
     <img src="https://img.shields.io/badge/HTML-6424ae?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
