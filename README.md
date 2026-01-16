@@ -36,7 +36,7 @@
   <h2>Stats</h2>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoyazen&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Hoyazen)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="assets/images/br.png" width="60%" />
