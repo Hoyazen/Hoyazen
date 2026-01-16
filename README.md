@@ -2,7 +2,7 @@
   <img src="/assets/images/br.png" height="30">
 </div>
 
-<div aling="center">
+<div align="center">
   <h1><strong>Bienvenue sur mon profil GitHub (:</strong></h1>
 </div>
 
