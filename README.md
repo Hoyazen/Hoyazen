@@ -1,5 +1,5 @@
 <div aling="center">
-  <h3">Bienvenue sur mon profil GitHub (:</h3>
+  <h1"><strong>Bienvenue sur mon profil GitHub (:</strong></h1>
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <h3>Stack :</h3>
+  <h2><strong>Stack :</strong></h2>
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@
 </div>
 
 <div align="left">
-<h4>Frontend</h4>
+<h4><strong>Frontend</strong></h4>
   <p>
     <img src="https://img.shields.io/badge/HTML-6424ae?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
     <img src="https://img.shields.io/badge/CSS-6424ae?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -36,17 +36,17 @@
     <img src="https://img.shields.io/badge/JavaScript-6424ae?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   </p>
 
-  <h4>Backend / Programming</h4>
+  <h4><strong>Backend / Programming</strong></h4>
   <p>
     <img src="https://img.shields.io/badge/Java-6424ae?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   </p>
 
-  <h4>Database</h4>
+  <h4><strong>Database</strong></h4>
   <p>
     <img src="https://img.shields.io/badge/MySQL-6424ae?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   </p>
 
-  <h4>Design / UI</h4>
+  <h4><strong>Design / UI</strong></h4>
   <p>
     <img src="https://img.shields.io/badge/Figma-6424ae?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     <img src="https://img.shields.io/badge/Photoshop-6424ae?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
