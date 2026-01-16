@@ -1,63 +1,57 @@
-<div align="center">
-  <img src="/assets/images/br.png" height="30">
-</div>
+<p align="center">
+  <img src="assets/images/hoyazen.png" width="100%" />
+</p>
 
-<div align="center">
-  <h1><strong>Bienvenue sur mon profil GitHub (:</strong></h1>
-</div>
+---
 
-<div align="center">
-  <img src="/assets/images/br.png" height="100">
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=2000&color=6424AE&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+profil+GitHub;Frontend+%2F+Backend+%2F+UI+Design" />
+</p>
 
-<div align="center">
-  <img src="/assets/images/hoyazen.png" width="100%">
-  <img src="/assets/images/backgroundTop.jpg" width="100%">
-  <img src="/assets/images/backgroundMid.jpg" width="100%">
-  <img src="/assets/images/backgroundBottom.jpg" width="100%">
-  <img src="/assets/images/backgroundBottomBottom.jpg" width="100%">
-</div>
+---
 
-<div align="center">
-  <img src="/assets/images/br.png" height="30">
-</div>
+## 🛠 Tech Stack
 
-<div align="center">
-  <h2><strong>Stack :</strong></h2>
-</div>
+### Frontend
 
-<div align="center">
-  <img src="/assets/images/br.png" height="30">
-</div>
+![HTML](https://img.shields.io/badge/HTML-6424ae?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-6424ae?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-6424ae?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6424ae?style=for-the-badge&logo=javascript&logoColor=white)
 
-<div align="left">
-<h4><strong>Frontend</strong></h4>
-  <p>
-    <img src="https://img.shields.io/badge/HTML-6424ae?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/CSS-6424ae?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-    <img src="https://img.shields.io/badge/Sass-6424ae?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
-    <img src="https://img.shields.io/badge/JavaScript-6424ae?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  </p>
+### Backend / Programming
 
-  <h4><strong>Backend / Programming</strong></h4>
-  <p>
-    <img src="https://img.shields.io/badge/Java-6424ae?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  </p>
+![Java](https://img.shields.io/badge/Java-6424ae?style=for-the-badge&logo=openjdk&logoColor=white)
 
-  <h4><strong>Database</strong></h4>
-  <p>
-    <img src="https://img.shields.io/badge/MySQL-6424ae?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  </p>
+### Database
 
-  <h4><strong>Design / UI</strong></h4>
-  <p>
-    <img src="https://img.shields.io/badge/Figma-6424ae?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/Photoshop-6424ae?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
-    <img src="https://img.shields.io/badge/Illustrator-6424ae?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator">
-    <img src="https://img.shields.io/badge/InDesign-6424ae?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="InDesign">
-  </p>
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-6424ae?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="center">
-  <img src="/assets/images/br.png" height="30">
-</div>
+### Design / UI
+
+![Figma](https://img.shields.io/badge/Figma-6424ae?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-6424ae?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-6424ae?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-6424ae?style=for-the-badge&logo=adobeindesign&logoColor=white)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&icon_color=6424ae&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TON_USERNAME&hide_border=true&background=00000000&ring=6424ae&fire=6424ae&currStreakLabel=6424ae" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&bg_color=00000000&color=6424ae&line=6424ae&point=ffffff&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TON_USERNAME&color=6424ae&style=flat-square" />
+</p>
