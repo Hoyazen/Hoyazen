@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/images/hoyazen.png" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=2000&color=6424AE&center=true&vCenter=true&width=520&lines=Frontend+%2F+Backend+Developer;UI+%26+Design+Enthusiast" />
 </p>
 
@@ -7,18 +11,16 @@
 </p>
 
 <p align="center">
-  <img src="assets/images/hoyazen.png" width="100%" />
   <img src="assets/images/backgroundTop.jpg" width="100%" />
   <img src="assets/images/backgroundMid.jpg" width="100%" />
   <img src="assets/images/backgroundBottom.jpg" width="100%" />
-  <img src="assets/images/backgroundBottomBottom.jpg" width="100%" />
 </p>
 
 <p align="center">
   <img src="assets/images/br.png" width="60%" />
 </p>
 
-## Stack
+## 🛠 Stack
 
 ### Frontend
 
@@ -52,4 +54,22 @@
 
 <p align="center">
   <img src="assets/images/br.png" width="60%" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=6424AE&icon_color=6424AE&text_color=cccccc" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=6424AE&text_color=cccccc" />
+</p>
+
+<p align="center">
+  <img src="assets/images/br.png" width="60%" />
+</p>
+
+<p align="center">
+  <img src="assets/images/backgroundBottomBottom.jpg" width="100%" />
 </p>
