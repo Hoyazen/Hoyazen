@@ -37,9 +37,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hoyazen&theme=onedark&no-frame=true&no-bg=true&column=4" />
-  </a>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Hoyazen&show_icons=true&hide_border=true&bg_color=00000000&title_color=6424AE&icon_color=6424AE&text_color=cccccc&include_all_commits=true" />
 </p>
 
 <p align="center">
