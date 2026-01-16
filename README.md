@@ -36,7 +36,7 @@
   <h2>Stats</h2>
 </p>
 
-[![Hoyazen](https://github-readme-stats.vercel.app/apihoyazen=anuraghazra)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoyazen&show_icons=true&theme=transparent)
 
 <p align="center">
   <img src="assets/images/br.png" width="60%" />
