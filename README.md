@@ -32,7 +32,17 @@
   <h2>Stats</h2>
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Hoyazen&show_icons=true&theme=tokyonight)
+<p align="center">
+  <a href="https://github.com/Hoyazen">
+    <img src="https://img.shields.io/badge/GitHub-6424ae?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-6424ae?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Contact-6424ae?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img src="assets/images/br.png" width="60%" />
