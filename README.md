@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/images/backgroundTop.jpg">
-  <img src="/assets/images/backgroundMid.jpg">
-  <img src="/assets/images/backgroundBottom.jpg">
+  <img src="/assets/images/backgroundTop.jpg" width="100%" height="100%">
+  <img src="/assets/images/backgroundMid.jpg" width="100%" height="100%">
+  <img src="/assets/images/backgroundBottom.jpg" width="100%" height="100%">
 </div>
