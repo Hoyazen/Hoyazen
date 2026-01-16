@@ -1,11 +1,19 @@
 <p align="center">
-  <img src="assets/images/br.png" width="120" />
+  <img src="assets/images/br.png" width="60%" />
 </p>
 
 # Bienvenue sur mon profil GitHub :)
 
 <p align="center">
-  <img src="assets/images/br.png" width="200" />
+  <img src="assets/images/br.png" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=2000&color=6424AE&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+profil+GitHub;Frontend+%2F+Backend+%2F+UI+Design" />
+</p>
+
+<p align="center">
+  <img src="assets/images/br.png" width="60%" />
 </p>
 
 <p align="center">
@@ -17,13 +25,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/images/br.png" width="120" />
+  <img src="assets/images/br.png" width="60%" />
 </p>
 
 ## Stack
 
 <p align="center">
-  <img src="assets/images/br.png" width="80" />
+  <img src="assets/images/br.png" width="60%" />
 </p>
 
 ### Frontend
@@ -49,5 +57,5 @@
 ![InDesign](https://img.shields.io/badge/InDesign-6424ae?style=for-the-badge&logo=adobeindesign&logoColor=white)
 
 <p align="center">
-  <img src="assets/images/br.png" width="120" />
+  <img src="assets/images/br.png" width="60%" />
 </p>
