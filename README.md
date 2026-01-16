@@ -14,11 +14,8 @@
   <img src="assets/images/br.png" width="60%" />
 </p>
 
-## Stack
-
-### Frontend
-
 <p align="center">
+  <h2>Stack</h2>
   <img src="https://img.shields.io/badge/HTML-6424ae?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-6424ae?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-6424ae?style=for-the-badge&logo=sass&logoColor=white" />
@@ -35,9 +32,11 @@
   <img src="assets/images/br.png" width="60%" />
 </p>
 
-## My stats
+<p align="center">
+  <h2>Stats</h2>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?hoyazen=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="assets/images/br.png" width="60%" />
