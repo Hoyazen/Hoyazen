@@ -10,4 +10,29 @@
 
 <div align="center">
   <h2>Stack :</h2>
+  <h3>Frontend</h3>
+  <p>
+    <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS-6424ae?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass" alt="Sass">
+    <img src="https://img.shields.io/badge/JavaScript-6424ae?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  </p>
+
+  <h3>Backend / Programming</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk" alt="Java">
+  </p>
+
+  <h3>Database</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-6424ae?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  </p>
+
+  <h3>Design / UI</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma" alt="Figma">
+    <img src="https://img.shields.io/badge/Photoshop-6424ae?style=for-the-badge&logo=adobephotoshop" alt="Photoshop">
+    <img src="https://img.shields.io/badge/Illustrator-black?style=for-the-badge&logo=adobeillustrator" alt="Illustrator">
+    <img src="https://img.shields.io/badge/InDesign-6424ae?style=for-the-badge&logo=adobeindesign" alt="InDesign">
+  </p>
 </div>
