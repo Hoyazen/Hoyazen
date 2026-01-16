@@ -14,7 +14,7 @@
   <img src="assets/images/br.png" width="60%" />
 </p>
 
-<p align="center">
+<div align="center">
   <h2>Stack</h2>
   <img src="https://img.shields.io/badge/HTML-6424ae?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-6424ae?style=for-the-badge&logo=css3&logoColor=white" />
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Photoshop-6424ae?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Illustrator-6424ae?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/InDesign-6424ae?style=for-the-badge&logo=adobeindesign&logoColor=white" />
-</p>
+</div>
 
 <p align="center">
   <img src="assets/images/br.png" width="60%" />
