@@ -36,7 +36,7 @@
   <h2>Stats</h2>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Hoyazen)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hoyazen&theme=onedark)]
 
 <p align="center">
   <img src="assets/images/br.png" width="60%" />
